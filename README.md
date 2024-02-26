@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **computational drug discovery in rdkit and chEMBL**
 
-- 👨‍💻 All of my projects are available at [https://www.manivenkatesh.com](https://www.manivenkatesh.com)
+- 👨‍💻 Descriptions and photos of my projects are available at [https://www.manivenkatesh.com](https://www.manivenkatesh.com)
 
-- 💬 Ask me about **Neuroscience and Drone Technology**
+- 💬 Ask me about **Neuroscience, DNNs, and Drone Technology**
 
 - 📫 How to reach me **manivenkatesh2020@gmail.com**
 
