@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mani</h1>
-<h3 align="center">A biomedical engineering BS/MS student at Georgia Tech who is passionate about computational biologics and neuroscience. I love exploring different worlds of computing.</h3>
+<h3 align="center">A biomedical engineering BS/MS student at Georgia Tech who is passionate about machine learning, computational biologics and neuroscience. I love exploring different worlds of computing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani-venkatesh&label=Profile%20views&color=0e75b6&style=flat" alt="mani-venkatesh" /> </p>
 
-- 🔭 I’m currently working on [Battery Sorting project](https://github.com/mani-venkatesh/battery-sorting)
+- 🔭 I’m currently working on [IC-Hyper](https://github.com/mani-venkatesh/IC-hyper)
 
-- 🌱 I’m currently learning **computational drug discovery in rdkit and chEMBL**
+- 🌱 I’m currently learning **Deep Recurrent Neural Net Architecture**
 
 - 👨‍💻 Descriptions and photos of my projects are available at [https://www.manivenkatesh.com](https://www.manivenkatesh.com)
 
