@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani-venkatesh&label=Profile%20views&color=0e75b6&style=flat" alt="mani-venkatesh" /> </p>
 
-- 🔭 I’m currently working on [IC-Hyper](https://github.com/mani-venkatesh/IC-hyper)
+- 🔭 I’m currently working on deploying a cancer prediction model.
 
 - 🌱 I’m currently learning **Deep Recurrent Neural Net Architecture**
 
